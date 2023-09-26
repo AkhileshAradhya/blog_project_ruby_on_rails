@@ -24,3 +24,4 @@ Things you may want to cover:
 * ...
 # blog_project
 # blog_project_in_rubyonrails
+# blog_project_
