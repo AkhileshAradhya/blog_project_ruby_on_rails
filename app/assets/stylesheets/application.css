@@ -13,3 +13,58 @@
  *= require_tree .
  *= require_self
  */
+ body{
+  background-image:url("peakpx (1).jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ }
+ .a{
+   font-size:xx-large;
+   font-style:italic;
+   color:rgba(8, 40, 67, 0.83);
+   cursor:pointer;
+ }
+ .ti{
+  font-size: xx-large;
+  font-style:normal;
+  font-family: verdana;
+  font-variant: small-caps;
+  font-display:unset;
+ }
+ .bo{
+  font-size:x-large;
+  font-family: verdana;
+  font-variant: small-caps;
+  font-style:oblique;
+ }
+
+ .button {
+  border: none;
+  color: rgb(109, 19, 19);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+.button1{
+  border: none;
+  color: rgb(10, 6, 6);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button1:hover {
+  background-color: #000000;
+  color: white;
+}
