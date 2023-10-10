@@ -13,8 +13,24 @@
  *= require_tree .
  *= require_self
  */
- body{
-  background-image:url("peakpx (1).jpg");
+ #a01{
+  background-image:url("a2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ }
+
+#a12{
+  background-image:url("aa.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ }
+ #a11{
+  background-image:url("peakpx.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ }
+ #a13{
+  background-image:url("peakpx (3).jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
  }
